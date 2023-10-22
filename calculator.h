@@ -7,5 +7,33 @@ class Calculator
         int Add (int, int);
         int Mul (double, double);
 };
+class Calculator
+{
+    public:
+        int Add (int, int);
+        int Mul (double, double);
+};
+
+class Calculator
+{
+    public:
+        int Add (int, int);
+        int Mul (double, double);
+};
+
+class Calculator
+{
+    public:
+        int Add (int, int);
+        int Mul (double, double);
+};
+
+class Calculator
+{
+    public:
+        int Add (int, int);
+        int Mul (double, double);
+};
+
 
 #endif//CALCULATOR_H
